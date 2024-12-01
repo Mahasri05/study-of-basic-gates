@@ -89,14 +89,17 @@ endmodule
 
  
 **Logic symbol & Truthtable**
+
 ![Screenshot 2024-12-01 161927](https://github.com/user-attachments/assets/fd8cab38-1dcd-43af-9d79-6ee8f7fe19b6)
 
-**RTL realization Output:** 
+**RTL realization Output:**
+
 ![Screenshot 2024-12-01 163131](https://github.com/user-attachments/assets/67f993bd-acc1-488c-9cc5-e4e09f852653)
 
 
 **RTL**
-https://1drv.ms/t/c/68f88ebeb7ad6b51/EctsOFg3b6NAsG_0dmXMetAB8x8WxG3qmaG3THaRdtxWYg?e=i1OHqc
+
+![Screenshot (4)](https://github.com/user-attachments/assets/6ad9113a-e286-4d56-948e-d8e40a21a8ce)
 
 **Result:**
 
