@@ -70,7 +70,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
  RegisterNumber: 24901210
 ```
-
 ```
 module Logicgates (a, b, c);
  input a;
